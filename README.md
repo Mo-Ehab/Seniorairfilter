@@ -1,4 +1,4 @@
-﻿# Airpurifier (Senior project)
+﻿# Table air purifier (Senior project)
 
 Esp32 Based air monitoring and filtering device.
 
@@ -8,3 +8,6 @@ Features:
 - LEDs to show current air quality at a glance
 - Controllable fan speed
 - screen to show data
+
+Design:
+![Schematic](img2.png)
